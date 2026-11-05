@@ -1,6 +1,6 @@
 import React from 'react'
 import { Route, Routes } from 'react-router-dom'
-import Home from './Pages/home/home'
+import Home from './Pages/home/Home'
 import Units from './Pages/units/Units'
 import Zones from './Pages/zones/Zones'
 import ContactUs from './Pages/contactUS/ContactUs'
